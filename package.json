@@ -1,0 +1,34 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day1:star1": "ts-node ./day1/star1",
+    "day1:star2": "ts-node ./day1/star2",
+    "day2:star1": "ts-node ./day2/star1",
+    "day2:star2": "ts-node ./day2/star2",
+    "day3:star1": "ts-node ./day3/star1",
+    "day3:star2": "ts-node ./day3/star2",
+    "day4:star1": "ts-node ./day4/star1",
+    "day4:star2": "ts-node ./day4/star2",
+    "day5:star1": "ts-node ./day5/star1",
+    "day5:star2": "ts-node ./day5/star2",
+    "day6:star1": "ts-node ./day6/star1",
+    "day6:star2": "ts-node ./day6/star2",
+    "day7:star1": "ts-node ./day7/star1",
+    "day7:star2": "ts-node ./day7/star2",
+    "day8:star1": "ts-node ./day8/star1",
+    "day8:star2": "ts-node ./day8/star2",
+    "day9:star1": "ts-node ./day9/star1",
+    "day9:star2": "ts-node ./day9/star2",
+    "day10:star1": "ts-node ./day10/star1",
+    "day10:star2": "ts-node ./day10/star2"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "tsc": "^2.0.3"
+  }
+}
